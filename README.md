@@ -24,7 +24,7 @@ formally describes the model, the data that it was trained on, and a
 validation plan that meets FDA criteria in order to obtain clearance of
 the software being used as a medical device.
 
-## Project 2: Patient Selection for Diabetes Drug Testing
+## [Project 2: Patient Selection for Diabetes Drug Testing](https://github.com/clairevania/Al-For-Healthcare/tree/main/Patient%20Selection%20for%20Diabetes%20Drug%20Testing)
 EHR data is becoming a key source of real-world evidence (RWE)
 for the pharmaceutical industry and regulators to make decisions
 on clinical trials. In this project, we will act as a data scientist
