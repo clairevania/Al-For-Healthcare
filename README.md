@@ -1,5 +1,5 @@
 # Projects Overview
-## Project 1: Pneumonia Detection from Chest X-Ray
+## [Project 1: Pneumonia Detection from Chest X-Ray](https://github.com/clairevania/Al-For-Healthcare/tree/main/Pneumonia%20Detection%20From%20Chest%20X-Ray)
 Chest X-ray exams are one of the most frequent and cost-effective
 types of medical imaging examinations. Deriving clinical diagnoses
 from chest X-rays can be challenging, however, even by skilled
