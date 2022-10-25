@@ -39,24 +39,7 @@ feature transformations with Tensorflow. Lastly, we will build a
 model and apply various analysis frameworks, including Tensorflow
 Probability and Aequitas, to evaluate model bias and uncertainty
 
-## Project 3: Motion Compensated Pulse Rate Estimation
-Wearable devices have multiple sensors all collecting information
-about the same person at the same time. Combining these
-data streams allows us to accomplish many tasks that would be
-impossible from a single sensor. In this project, we will build an
-algorithm which combines information from two of the sensors
- -- the IMU and PPG sensors -- that
-can estimate the wearer’s pulse rate in the presence of motion.
-First, we’ll create and evaluate an activity classification algorithm
-by building signal processing features and a random forest model.
-Then, we will build a pulse rate algorithm that uses the activity
-classifier and frequency domain techniques, and also produces
-an associated confidence metric that estimates the accuracy
-of the pulse rate estimate. Lastly, we will evaluate algorithm
-performance and iterate on design until the desired accuracy is
-achieved.
-
-## Project 4: Hippocampal Volume Quantification in Alzheimer’s Progression
+## Project 3: Hippocampal Volume Quantification in Alzheimer’s Progression
 Hippocampus is one of the major structures of the human brain
 with functions that are primarily connected to learning and memory.
 The volume of the hippocampus may change over time, with age,
