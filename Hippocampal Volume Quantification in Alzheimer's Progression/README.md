@@ -71,7 +71,7 @@ In the 3rd section of the project we will be working with three software product
 
 You will perform this section in the **Workspace 1**. This workspace has a Python virtual environment called **medai** which is set up with everything that you need to train your ML model. This workspace also has a GPU which will speed up your training process quite significantly.
 
-The data is located in `/Data/TrainingSet` directory [here]().
+The data is located in `/Data/TrainingSet` directory [here](https://github.com/clairevania/Al-For-Healthcare/tree/main/Hippocampal%20Volume%20Quantification%20in%20Alzheimer's%20Progression/Data/TrainingSet).
 
 In the project directory called `section1` you will find a Python Notebook that has a few instructions in it that will help you inspect the dataset, understand the clinical side of the problem a bit better, and get it ready for consumption by your algorithm in **Section 2**. The notebook has 2 types of comments:
 - Comments marked with `# TASK: `are tasks, instructions, or questions you **have** to complete.
