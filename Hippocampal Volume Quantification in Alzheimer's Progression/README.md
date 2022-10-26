@@ -1,7 +1,3 @@
-# Final Project Instructions
-
-This file contains background information and instructions for the final project.
-
 ## Quantifying Alzheimer's Disease Progression Through Automated Measurement of Hippocampal Volume
 
 Alzheimer's disease (AD) is a progressive neurodegenerative disorder that results in impaired neuronal (brain cell) function and eventually, cell death. AD is the most common cause of dementia. Clinically, it is characterized by memory loss, inability to learn new material, loss of language function, and other manifestations. 
