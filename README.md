@@ -39,7 +39,7 @@ feature transformations with Tensorflow. Lastly, we will build a
 model and apply various analysis frameworks, including Tensorflow
 Probability and Aequitas, to evaluate model bias and uncertainty
 
-## Project 3: Hippocampal Volume Quantification in Alzheimer’s Progression
+## [Project 3: Hippocampal Volume Quantification in Alzheimer’s Progression](https://github.com/clairevania/Al-For-Healthcare/tree/main/Hippocampal%20Volume%20Quantification%20in%20Alzheimer's%20Progression)
 Hippocampus is one of the major structures of the human brain
 with functions that are primarily connected to learning and memory.
 The volume of the hippocampus may change over time, with age,
